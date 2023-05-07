@@ -1,0 +1,24 @@
+//default theme
+:root  {
+  --banana-btn-bg-color: rgb(55, 114, 222);
+  --banana-btn-color: rgb(134, 206, 33);
+  --banana-background: #6ce3e3;
+  --banana-text-color: black;
+}
+
+main {
+  background-color: var(--banana-background);
+}
+
+main[data-theme="summer"] {
+  --banana-btn-bg-color: rgb(222, 24, 114);
+  --banana-btn-color: rgb(143, 218, 43);
+  --banana-background: yellow;
+}
+
+main[data-theme="spring"] {
+  --banana-btn-bg-color: rgb(199, 206, 57);
+  --banana-btn-color: rgb(179, 29, 225);
+  --banana-background: #3772de;
+}
+
