@@ -15,7 +15,8 @@ import { ContainerComponent } from './components/container/container.component';
   ],
   exports: [
     NgxBananaUiComponent,
-    ButtonComponent
+    ButtonComponent,
+    ContainerComponent
   ]
 })
 export class NgxBananaUiModule { }
