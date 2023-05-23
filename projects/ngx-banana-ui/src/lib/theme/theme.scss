@@ -1,16 +1,16 @@
 /* Default theme */
 :root {
-  --banana-btn-bg-color: rgb(55, 114, 222);
-  --banana-btn-color: rgb(134, 206, 33);
+  --banana-btn-bg-color: rgb(149, 176, 229);
+  --banana-btn-color: rgb(55, 65, 43);
 }
 
 
 banana-button[data-theme="summer"]  {
-  --banana-btn-bg-color: rgb(222, 24, 114);
-  --banana-btn-color: rgb(143, 218, 43);
+  --banana-btn-bg-color: rgb(5, 80, 225);
+  --banana-btn-color: rgb(218, 43, 69);
 }
 
 banana-button[data-theme="spring"] {
-  --banana-btn-bg-color: rgb(199, 206, 57);
-  --banana-btn-color: rgb(179, 29, 225);
+  --banana-btn-bg-color: rgb(25, 229, 13);
+  --banana-btn-color: rgb(107, 57, 206);
 }
