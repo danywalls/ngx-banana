@@ -8,4 +8,5 @@ import {Component, Input, ViewEncapsulation} from "@angular/core";
 })
 export class ButtonComponent {
   @Input() label = 'Accept';
+  @Input() type: string = ''
 }
