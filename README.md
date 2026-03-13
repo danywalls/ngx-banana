@@ -12,6 +12,16 @@ Introduction to building, structuring, and local publishing of shared component 
 
 ### Using the Library
 1. Follow the steps to link or publish the library for use in consumption apps.
+
+## Project Summary
+Introduction to building, structuring, and local publishing of shared component libraries in Angular.
+
+## How to Run
+### Building the Library
+1. `ng build ngx-banana` 
+
+### Using the Library
+1. Follow the steps to link or publish the library for use in consumption apps.
 This code is part of a series of articles:
 
 - Create Your Angular Library
